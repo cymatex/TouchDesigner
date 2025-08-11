@@ -20,7 +20,7 @@ GLSL - SSGI V2
 [![glsl-ssgiv2cover](https://github.com/user-attachments/assets/c792fd45-8ae3-4b3c-9309-d3f34b32a492)](https://youtu.be/1EyrfC6g0XY)
 GLSL - FIRE EMITTER
 [![fireemitter-cover](https://github.com/user-attachments/assets/95363183-9b1e-4a10-b1ab-ea2336bd4a5a)](https://youtu.be/7Hpd3RGkUlo)
-PBR Gloss + Pseudo Reflections + Light-rays
+PBR GLOSS + PSUEDO REFLECTIONS + LIGHTRAYS
 [![pbrgloss](https://github.com/user-attachments/assets/7e526f61-5aea-4fc7-bbb0-6a627cc50170)](https://www.youtu.be/eVJ1839MjLc)
 SUKR
 [![sukrgithub](https://github.com/user-attachments/assets/93e1b700-dd38-49e3-aba5-1afa28a6b1bf)](https://youtu.be/qwTmid8VBgU)
