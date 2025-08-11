@@ -1,6 +1,6 @@
 DIGITIZED STEEL PARTICLES
 ![steelparticles](https://github.com/user-attachments/assets/8283667c-865f-41da-9a72-6b18147ea4b9)
-PBR Terrain + Mountians + Sky
+PBR TERRAIN + MOUNTAINS + SKY
 ![PBR-TERRAIN-MTNS-SKY (1)](https://github.com/user-attachments/assets/9577121f-a9fb-470b-b4ea-36a9c86586ac)
 GLSL TOP - LENS FLARE SHADER
 ![lensflare](https://github.com/user-attachments/assets/2fdd7d9f-7fb0-4c42-9b30-b5570f050cb1)
