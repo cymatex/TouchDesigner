@@ -6,8 +6,9 @@ GLSL TOP - CRT SHADER
 ![crt-git](https://github.com/user-attachments/assets/d87cbd3f-286e-4e55-bd50-90db4ef7efa5)
 GLSL TOP - GAMEBOY SHADER
 ![gameboy-git3 2](https://github.com/user-attachments/assets/ae326b29-7261-4191-8799-dd534dd1f038)
+<!-- 
 GLSL TOP - LENS FLARE SHADER
-![lensflare](https://github.com/user-attachments/assets/2fdd7d9f-7fb0-4c42-9b30-b5570f050cb1)
+![lensflare](https://github.com/user-attachments/assets/2fdd7d9f-7fb0-4c42-9b30-b5570f050cb1)  -->
 GLSL TOP - GLITCH PIXEL SORT SHADER
 ![glitchpix-git3](https://github.com/user-attachments/assets/91efe0d5-f074-474d-bfe3-0357cc4ecd16)
 PBR TERRAIN + MOUNTAINS + SKY
