@@ -1,5 +1,5 @@
 PBR DIGITIZED STEEL PARTICLES
-![steelparticles](https://github.com/user-attachments/assets/8283667c-865f-41da-9a72-6b18147ea4b9)
+[![steelparticles](https://github.com/user-attachments/assets/8283667c-865f-41da-9a72-6b18147ea4b9)](https://youtu.be/odHYe2XPNKg)
 PBR GOLD GLITTER PARTICLES
 [![goldglitter-cover](https://github.com/user-attachments/assets/ca411108-54f6-458f-8a2d-6a34db899118)](https://youtu.be/ifn-h_zbL2E)
 GLSL TOP - CRT SHADER
@@ -12,7 +12,7 @@ GLSL TOP - LENS FLARE SHADER
 GLSL TOP - GLITCH PIXEL SORT SHADER
 ![glitchpix-git3](https://github.com/user-attachments/assets/91efe0d5-f074-474d-bfe3-0357cc4ecd16)
 PBR TERRAIN + MOUNTAINS + SKY
-![PBR-TERRAIN-MTNS-SKY (1)](https://github.com/user-attachments/assets/9577121f-a9fb-470b-b4ea-36a9c86586ac)
+[![PBR-TERRAIN-MTNS-SKY (1)](https://github.com/user-attachments/assets/9577121f-a9fb-470b-b4ea-36a9c86586ac)](https://youtu.be/pi3SEuLLCmU)
 GLSL - PBR PARTICLE COLLISION (Compute Particles V3)
 [![glsl-compute](https://github.com/user-attachments/assets/f444d2af-acc7-4a08-bdbe-0c72b1da0a5c)](https://youtu.be/m0U7rlc6uo8)
 GLSL - GRASS + WIND PHYSICS
