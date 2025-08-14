@@ -11,6 +11,8 @@ GLSL TOP - LENS FLARE SHADER
 ![lensflare](https://github.com/user-attachments/assets/2fdd7d9f-7fb0-4c42-9b30-b5570f050cb1)  -->
 GLSL TOP - GLITCH PIXEL SORT SHADER
 ![glitchpix-git3](https://github.com/user-attachments/assets/91efe0d5-f074-474d-bfe3-0357cc4ecd16)
+PBR WATER + FOAM
+[![pbrwatercompressed](https://github.com/user-attachments/assets/20df4367-a1f3-4114-bca5-7f52c09ba9c7)](https://youtu.be/PWQIXZGNm9M)
 PBR TERRAIN + MOUNTAINS + SKY
 [![PBR-TERRAIN-MTNS-SKY (1)](https://github.com/user-attachments/assets/9577121f-a9fb-470b-b4ea-36a9c86586ac)](https://youtu.be/pi3SEuLLCmU)
 GLSL - PBR PARTICLE COLLISION (Compute Particles V3)
